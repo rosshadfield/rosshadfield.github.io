@@ -1524,7 +1524,7 @@ label {
   letter-spacing: -0.2px;
 }
 .navbar-nav > li > a:hover {
-  color: #0070cd;
+  color: #ff4646;
 }
 
 /* Small Devices, Tablets */
@@ -1939,7 +1939,7 @@ li.open > a:focus {
   font-family: fontawesome;
   font-size: 14px;
   line-height: 26px;
-  color: #0070cd;
+  color: #ff4646;
 }
 
 .feature-center {
@@ -2378,7 +2378,7 @@ li.open > a:focus {
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%;
-  margin: 0 auto 15px auto;
+  margin: 0 auto 8px auto;
   display: block;
   background-color: #ff4646;
 }
